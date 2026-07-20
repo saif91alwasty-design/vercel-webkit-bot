@@ -1,0 +1,11 @@
+{
+  "name": "webkit-bot",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "playwright-core": "1.40.0"
+  }
+}
